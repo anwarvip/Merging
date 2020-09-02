@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #ffffff;
+  color: #0c0c0c;
   text-decoration: none;
 }
 
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #c55f14;
+  color: #0c0c0c;
 }
 
 .nav-menu .drop-down > a:after {
